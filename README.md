@@ -2,6 +2,7 @@
 Catalog of Commonly Used Pattern Functions in JavaScript/TypeScript
 
 - [debounce](src/debounce.ts)
+- [throttle](src/throttle.ts)
 
 ## Acknowledgements
 
