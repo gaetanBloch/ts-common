@@ -7,6 +7,8 @@ Catalog of Commonly Used Pattern Functions in JavaScript/TypeScript
 - [memoized](src/memoize.ts)
 - [curry](src/curry.ts)
 - [partial](src/partial.ts)
+- [pipe](src/pipe.ts)
+- [compose](src/compose.ts)
 
 ## Acknowledgements
 
