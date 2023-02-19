@@ -9,6 +9,8 @@ Catalog of Commonly Used Pattern Functions in JavaScript/TypeScript
 - [partial](src/partial.ts)
 - [pipe](src/pipe.ts)
 - [compose](src/compose.ts)
+- [pick](src/pick.ts)
+- [omit](src/omit.ts)
 
 ## Acknowledgements
 
