@@ -11,6 +11,7 @@ Catalog of Commonly Used Pattern Functions in JavaScript/TypeScript
 - [compose](src/compose.ts)
 - [pick](src/pick.ts)
 - [omit](src/omit.ts)
+- [zip](src/zip.ts)
 
 ## Acknowledgements
 
